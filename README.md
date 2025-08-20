@@ -2,7 +2,7 @@
 “Hallo....Perkenalkan, saya Sebastianus Handri Turino, lulusan S1 Teknik Informatika Universitas Wijaya Kusuma Surabaya. <br>Dengan pengalaman mengerjakan sistem pengelolaan data penduduk desa, pembuatan website desa, <br>serta prestasi dalam International Student Conference, saya berkomitmen untuk terus berinovasi di bidang teknologi. <br>Saya percaya kemampuan saya dalam pengembangan sistem berbasis web dapat memberikan solusi yang <br>bermanfaat dan berkelanjutan bagi perusahaan maupun masyarakat.”
 
 
-## 🌐 Socials:
+## 🌐 my social media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ndi.turino) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/h4ndriturino?igsh=MTFvZDhvNWhzb3c0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SHT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:handry8turino8@gmail.com) 
 
 # 💻 Tech Stack:
